@@ -8,7 +8,7 @@
 ## Introduction
 
 In a previous lab, you learned how to create arrays and access the elements of
-an array. Now you are ready to manipulate arrays using different Ruby methods.
+an array. Now you are reay to manipulate arrays using different Ruby methods.
 
 Fork and clone this lab. Run `learn` to see the initial test failures, then
 write the required methods in the
